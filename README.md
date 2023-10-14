@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @iAzDev
 - 👀 I’m interested in Python, C++, C# and simple reverse engineering.
 - 🌱 I’m currently learning basic reverse engineering.
-- 📫 How to reach me on: iazdev@riseup.net
+- 📫 How to reach me on: iazdev@atl.slmail.me
